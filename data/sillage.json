@@ -1,0 +1,37 @@
+{
+  "greetings": [
+    {
+      "questions": ["Qu'est-ce que sillage ?", "C'est quoi sillage ?", "Définition de sillage"],
+      "responses": [
+        "Sillage est un logiciel métier destiné aux établissements de santé.",
+        "Sillage est un logiciel métier sur lequel le dossier du patient est informatisé",
+        "Sillage, créé par le SIB, est un logiciel permettant degérer de façon informatique le dossier d'un patient hospitalisé ou non. "
+      ]
+    },
+
+    {
+      "questions": ["J'ai besoin d'aide pour Sillage", "Sillage", "Aide sillage"],
+      "responses": [
+        "Sur quelle partie de Sillage je peux vous aider ?",
+        "Je peux peut-être vous aider, sur quelle partie de Sillage avez-vous des difficultés ?",
+        "Pouvez-vous préciser sur quel module vous avez besoin d'aide ?"
+        
+      ]
+    },
+
+    {
+      "questions": ["J'ai besoin d'aide pour le plan de soin", "Plan de soin", "Aide plan de soin", "Le plan de soin"],
+      "responses": [
+        "Pas de soucis, si vous avez une question ou des mots clés concernant votre problème/demande, je vous écoute."
+      ]
+    },
+
+    {
+      "questions": ["Comment entrer un soin dans Sillage ?", "Ajout soin dans Sillage", "Ajouter un soin dans le plan de soin","Comment ajouter un soin dans le plan de soin ?","Ajout soin sillage", "Ajouter soin sillage"],
+      "responses": [
+        "Sur votre plan de soin, en haut à gauche, cliquez sur le bouton 'Actions'> 'Prescrire des soins, surveillances et procoles. Vous pouvez ensuite sélectionner le soin souhaité. Si vous ne le trouvez pas vous pouvez utiliser la barre de recherche qui se situe dans la fenêtre ouverte en bas à droite."
+        
+      ]
+    }
+  ]
+}

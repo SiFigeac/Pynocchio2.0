@@ -1,0 +1,28 @@
+{
+  "greetings": [
+    {
+      "questions": ["Comment ça va ?", "Ça va ?", "Tu vas bien ?","Comment vas-tu ?"],
+      "responses": [
+        "Je vais très bien, merci ! Et vous ?",
+        "Tout va bien, merci de demander !",
+        "Parfaitement bien, comment puis-je vous aider ?"
+      ]
+    },
+    {
+      "questions": ["Merci", "Je te remercie", "Thanks","Merci beaucoup !", "Merci !"],
+      "responses": [
+        "Je vous en prie !",
+        "C'est un plaisir !",
+        "Pas de problème !"
+      ]
+    },
+    {
+      "questions": ["Au revoir", "À bientôt", "À plus", "Bye"],
+      "responses": [
+        "Au revoir ! Passez une excellente journée !",
+        "À bientôt ! N'hésitez pas à revenir si vous avez besoin d'aide !",
+        "Au revoir et à la prochaine !"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+    "greetings": [
+      {
+        "questions": ["Qui est Mme Grellet ?", "Mme Grellet", "Grellet Florence", "Grellet", "Qui est le directeur de l'hopital ?","Qui est le directeur de notre établissement ?","Qui est le directeur ?","Qui est la directrice ?"],
+        "responses": [
+          "Mme Grellet est la directrice de notre établissement, si vous souhaitez prendre rendez-vous ou planifier un entretien vous devrez contacter Mme Mazars son assistante.",
+          "Mme Grellet est la directrice de notre hôpital, si vous souhaitez prendre rendez-vous ou planifier un entretien vous devrez contacter Mme Mazars son assistante."
+        ]
+      },
+
+      {
+        "questions": ["Comment joindre la directrice ?", "Comment contacter la directrice", "Je voudrais contacter la directrice", "Comment contacter Mme Grellet ?", "Comment joindre Mme Grellet ?","Peux-tu me donner les contacts de Mme Grellet ?","Peux-tu me dire comment contacter Mme Grellet","Je veux joindre la directrice"],
+        "responses": [
+          "Pour contacter Mme Grellet vous pouvez passer par le biais de son assistante Mme Mazars au 65 03 ou par mail à direction@ch-figeac.fr"
+        ]
+      },
+
+      {
+        "questions": ["Qui est Mme Mazars ?", "Mme Mazars", "Mazars Céline", "Mazars", "Numéro de téléphone Céline Mazars", "Téléphone Céline Mazars", "Quel est le numéro de téléphone de Mme Mazars ?", "Quel est le numéro de Mme Mazars Céline ?","Qui est la secrétaire de direction ?","Y a-t-il un secrétariat de direction?", "Je souhaiterais contacter Mme Mazars par téléphone"],
+        "responses": [
+          "Mme Mazars est l'assistante de direction de Mme Grellet, notre directrice. Vous pouvez la contacter au 65 03.",
+          "Mme Mazars est notre assistante de direction, si vous avez des questions à lui poser vous pouvez la joindre au 65 03."
+        ]
+      },
+
+      {
+        "questions": ["Quel est le mail de Mme Mazars ?", "Je voudrais l'adresse mail de Mme Mazars Céline", "Mail Mazars Céline", "Adresse mail Céline Mazars","Je souhaiterais contacter Mme Mazars par mail"],
+        "responses": [
+          "L'adresse mail de Mme Mazars Céline et direction@ch-figeac.fr",
+          "Vous pouvez lui envoyer un mail à direction@ch-figeac.fr"
+        ]
+      },
+
+      {
+        "questions": ["Qui est le directeur des ressources humaines ?", "Qui est le DRH ?", "Qui est Mr Colombeau ?", "Téléphone Mr Colombeau","Je souhaiterais contacter Mme Mazars par téléphone","Je voudrais le numéro de téléphone ne Mr Colombeau", "Je voudrais téléphoner au directeur des ressources humaines","Je veux téléphoner au DRH"],
+        "responses": [
+          "Mr Colombeau est notre directeur des ressources humaines, vous pouvez le joindre au 65 02, en son absence vous pouvez joindre son attachée Mme Colomb au 65 11 ou bien sa fine équipe RH au 65 29 Mme Bazeau, 65 10 Mr Gimenez, 65 44 Mme Valette." 
+        ]
+      },
+
+      {
+        "questions": ["Qui est l'ingénieur ?", "Qui est notre ingénieur ?", "Y a-t-il un ingénieur au centre hospitalier ?", "Téléphone Mr Carreras","Je souhaiterais contacter Mr Carreras par téléphone","Je voudrais le numéro de téléphone ne Mr Carreras", "Je voudrais téléphoner à l'ingénieur de l'hopital","Je veux téléphoner à 'lingénieur"],
+        "responses": [
+          "Mr Carreras est notre ingénieur, vous pouvez le contacter au 66 48 ou bien passer par son asssitante Mme Milhou au 65 04." 
+        ]
+      }
+    ]
+
+}
